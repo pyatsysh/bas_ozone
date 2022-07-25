@@ -26,6 +26,6 @@ $$\frac{N^*}{\mu}=-\frac{S}{\mu}+(X\Delta\alpha +\Delta\beta)$$
 3. Estimate $S$ by doing a linear fit on $N^*/\mu$ vs $1/\mu$. For A, C, D wavelengths an example is in [doc 2]:
 	![[Pasted image 20220722165610.png|350]]
     
-    ![Pasted image 20220722165610.png](Pasted image 20220722165610.png)
+    ![im2.png](im2.png)
 4. Potentially, average fitted $S$ across more days. 
 

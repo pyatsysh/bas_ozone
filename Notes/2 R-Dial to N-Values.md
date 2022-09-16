@@ -15,9 +15,7 @@ where $N^*$ is from the R-to-N table.
 Note: 
 1. Each wavelength, A, C and D, has its own error calibration errro $S$. The wavelength pairs have its own $S$. 
 2. Since $X$ should remain constant within 24-hour intervals, the true $S$ should minimise the spread of $X$, i.e. the mean std of $X$, averaged over the season. 
-
-![im1.png](im1.png)
-
+	![[Pasted image 20220722173531.png|350]] 
 
 ### Langley method: 1 day, 1 wavelngth, 3 measurements
 1. In expression for $X$ ([[1 Direct Sun Equation#^c55034]]), set $N:=N^*+S$, $\Delta\delta=0$ (true for Antarctica), $p=1$, $m=\mu$. We then obtain the following:
@@ -25,7 +23,5 @@ $$\frac{N^*}{\mu}=-\frac{S}{\mu}+(X\Delta\alpha +\Delta\beta)$$
 2. We have several measurements (e.g., three) of $N^*$ and $\mu$, performed on the same day where $(X\Delta\alpha +\Delta\beta)=const$ and $S=const$, but $N^*$ and $\mu$ differ between the measurements.
 3. Estimate $S$ by doing a linear fit on $N^*/\mu$ vs $1/\mu$. For A, C, D wavelengths an example is in [doc 2]:
 	![[Pasted image 20220722165610.png|350]]
-    
-    ![im2.png](im2.png)
 4. Potentially, average fitted $S$ across more days. 
 

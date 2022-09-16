@@ -98,5 +98,3 @@
 
 
 
-# `Z6_Dataframe_zenith.csv`:
-

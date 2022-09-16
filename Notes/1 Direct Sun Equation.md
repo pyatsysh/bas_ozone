@@ -26,7 +26,7 @@ $I_0$ (short wavelength) and $I_0^\prime$ (long wavelength) - out-of-atmosphere 
 These are obtained from measurement of an R-dial in section [[2 R-Dial to N-Values]]
 
 ### Zenith angle
-* $\theta$ - solar zenith angle (angular zenith distance of the sun); with $0^\degree$ as sun directly overhead, 90 as at the horizon
+* $\theta$ - solar zenith angle (angular zenith distance of the sun); with $0^\degree$ as sun directly overhead, 90 at the horizon
 
 ### Deltas
 * $\Delta\alpha$ - Absorption coefficients delta between wavelengths (tabulated [doc 2]).
@@ -50,7 +50,8 @@ These are obtained from measurement of an R-dial in section [[2 R-Dial to N-Valu
 		1. Either measured or table-interpolated [doc 2]
 		2. Has seasonal dependence
 		3. It may be possible to use Dobson data to derive the profile of the ozone layer - not attempted yet at BAS
-
+	$\gamma$ - solar zenith angle (SZA)
+	
 ## Two wavelength pairs
 When difference in $X$ is measured between the two wavelength pairs as $X_{12}$, the expression is simplified because some of the deltas are zeroed out ($\Delta\delta_{12}\approx0$):
 
